@@ -3,13 +3,7 @@
 #### Ubuntu/Debian:
 ```bash
 sudo apt update
-sudo apt install -y \
-    build-essential \
-    libssl-dev \
-    libcurl4-openssl-dev \
-    libsecp256k1-dev \
-    git \
-    make
+sudo apt install -y build-essential libssl-dev libcurl4-openssl-dev libsecp256k1-dev git make
 ```
 
 
